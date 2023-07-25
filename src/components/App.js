@@ -7,7 +7,7 @@ function App() {
 
   function handleDarkModeClick() {
     setIsDarkMode((isDarkMode) => !isDarkMode);
-  }
+  } 
 
   return (
     <div className={"App " + (isDarkMode ? "dark" : "light")}>

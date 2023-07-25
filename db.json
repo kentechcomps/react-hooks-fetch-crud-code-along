@@ -35,6 +35,83 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Mango",
+      "category": "Dessert",
+      "isIncart": false,
+      "id": 7,
+      "isInCart": false
+    },
+    {
+      "name": "Letuce",
+      "category": "Dairy",
+      "isIncart": false,
+      "id": 8,
+      "isInCart": false
+    },
+    {
+      "name": "Banana",
+      "category": "Dessert",
+      "isIncart": false,
+      "id": 9,
+      "isInCart": false
+    },
+    {
+      "name": "Magin",
+      "category": "Dairy",
+      "isIncart": false,
+      "id": 10,
+      "isInCart": false
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 11,
+      "isInCart": false
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 12,
+      "isInCart": false
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 13,
+      "isInCart": false
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 14,
+      "isInCart": true
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 15,
+      "isInCart": true
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 16,
+      "isInCart": true
+    },
+    {
+      "name": "Magin",
+      "category": "Produce",
+      "isIncart": false,
+      "id": 17,
+      "isInCart": true
     }
   ]
 }
